@@ -1,1 +1,5 @@
-<h1>🔮 Amethist Investment</h1>
+<h1 align="center">🔮 Amethist Investment</h1>
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/5f4c0880-04f7-4ac2-bf2a-08e78dbe84b6" />
+
+
+<h2>Sobre</h2>
