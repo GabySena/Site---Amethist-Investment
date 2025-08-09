@@ -4,5 +4,5 @@
 
 <h2>Sobre</h2>
 <div>
-  <img src="https://imgur.com/LDdCWrn">
+  <img src="https://imgur.com/a/bOWxbxV">
 </div>
