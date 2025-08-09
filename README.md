@@ -1,5 +1,5 @@
 <h1 align="center">Amethist Investment</h1>
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/75fce858-3773-4db0-a0fa-bbc1a59e0733" />
+<img src="https://br.pinterest.com/pin/30188259996603301/" width="400" alt="Descrição do gif">
 
 
 <h2>☪︎ Sobre</h2>
