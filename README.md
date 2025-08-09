@@ -1,5 +1,6 @@
 <h1 align="center">Amethist Investment</h1>
-![2aa1fcf63fa93bf62e07a1e809d852fc](https://github.com/user-attachments/assets/4a831c26-a6df-41d3-a167-31b7d3457ba7)
+<img width="1199" height="400" alt="image" src="https://github.com/user-attachments/assets/af6c893d-4d5f-4632-b606-4602ab43bd2e" />
+
 
 <h2>☪︎ Sobre</h2>
 <img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/436f35aa-5a61-474a-b413-17f36ab6c3c8" />
