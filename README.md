@@ -8,19 +8,16 @@ O Amethist Investment é uma plataforma moderna de investimentos que une tecnolo
 O nome Amethist foi inspirado na pedra preciosa Ametista, símbolo de equilíbrio, clareza e proteção. Assim como a pedra, a plataforma busca transmitir segurança e confiança nas decisões financeiras.
 
 <h2>🎨 Escolha das Cores</h2>
-[li]A identidade visual foi pensada para reforçar os valores do projeto:[li]
-
-Roxo ametista: sofisticação, criatividade e alto valor.
-
-Tons complementares suaves: equilíbrio visual e fácil leitura.
-
+<ul>
+    <li><strong>Roxo ametista:</strong> sofisticação, criatividade e alto valor.</li>
+    <li><strong>Tons complementares suaves:</strong> equilíbrio visual e fácil leitura.</li>
+  </ul>
 <h2>✨ Experiência do Usuário</h2>
-Área de login personalizada para acesso seguro.
-
-Simulador de investimentos com gráficos dinâmicos e detalhados.
-
-Interface intuitiva, para que qualquer pessoa possa explorar e interagir com facilidade.
-
+<ul>
+    <li><strong>Área de login personalizada</strong> para acesso seguro.</li>
+    <li><strong>Simulador de investimentos</strong> com gráficos dinâmicos e detalhados.</li>
+    <li><strong>Interface intuitiva</strong>, para que qualquer pessoa possa explorar e interagir com facilidade.</li>
+  </ul>
 
 <img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/436f35aa-5a61-474a-b413-17f36ab6c3c8" />
 
