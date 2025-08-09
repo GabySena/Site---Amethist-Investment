@@ -9,4 +9,4 @@ Tudo isso com um design elegante e fácil de usar, pensado para tornar o mundo d
 <img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/436f35aa-5a61-474a-b413-17f36ab6c3c8" />
 
 <h2>☪︎ Participação:</h2>
-[Beatriz marques](https://github.com/IDbiaamasquess)
+<h2>[Beatriz marques](https://github.com/IDbiaamasquess)</h2>
