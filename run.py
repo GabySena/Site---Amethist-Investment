@@ -120,4 +120,5 @@ def simular():
         print(f"Erro na simulação: {e}")
         return jsonify({'error': str(e)}), 400
     
-app.run(host='0.0.0.0', port=5000, debug=True)
+app.run(host='0.0.0.0', port=80, debug=True)
+
